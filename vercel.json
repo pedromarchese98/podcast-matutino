@@ -1,0 +1,10 @@
+{
+  "buildCommand": null,
+  "installCommand": null,
+  "framework": null,
+  "outputDirectory": "public",
+  "headers": [
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] },
+    { "source": "/(.*)/feed.xml", "headers": [{ "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" }, { "key": "Cache-Control", "value": "public, max-age=300" }] }
+  ]
+}
