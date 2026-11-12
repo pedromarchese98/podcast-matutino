@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumen de la mañana</title>
+    <link>https://podcast-matutino.vercel.app/yokx982gzsnqsilo/</link>
+    <atom:link href="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es-ar</language>
+    <description>Resumen diario en audio: economía argentina e internacional, tecnología, geopolítica y actualidad.</description>
+    <itunes:author>Podcast matutino</itunes:author>
+    <itunes:image href="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/portada.png"/>
+    <image><url>https://podcast-matutino.vercel.app/yokx982gzsnqsilo/portada.png</url><title>Resumen de la mañana</title><link>https://podcast-matutino.vercel.app/yokx982gzsnqsilo/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <lastBuildDate>Thu, 12 Nov 2026 19:54:10 -0300</lastBuildDate>
+    <item>
+      <title>Jueves 12 de noviembre</title>
+      <description>Inflación de octubre y licitación de deuda; la crisis en Nvidia y la inflación de Estados Unidos; la salida a bolsa de Anthropic; negociaciones por Ucrania e Irán; el cierre de la visita del Papa.</description>
+      <itunes:summary>Inflación de octubre y licitación de deuda; la crisis en Nvidia y la inflación de Estados Unidos; la salida a bolsa de Anthropic; negociaciones por Ucrania e Irán; el cierre de la visita del Papa.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-12</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-12.mp3" length="3853000" type="audio/mpeg"/>
+      <itunes:duration>8:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
