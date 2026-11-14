@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Fri, 13 Nov 2026 09:48:34 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:48:32 -0300</lastBuildDate>
+    <item>
+      <title>Sábado 14 de noviembre</title>
+      <description>Inflación de octubre en 2,2% y suba semanal del dólar blue, la renuncia de Jensen Huang en Nvidia, la Fed rumbo a subir tasas, la tensión con Irán y la falla que frenó los vuelos en Estados Unidos.</description>
+      <itunes:summary>Inflación de octubre en 2,2% y suba semanal del dólar blue, la renuncia de Jensen Huang en Nvidia, la Fed rumbo a subir tasas, la tensión con Irán y la falla que frenó los vuelos en Estados Unidos.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-14</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-14.mp3" length="3837536" type="audio/mpeg"/>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Viernes 13 de noviembre</title>
       <description>Inflación de octubre de 2,2% y reacción del mercado, la renuncia de Jensen Huang en Nvidia, el salto del petróleo por Irán, el destrabe de las negociaciones por Ucrania y Argentina-Uruguay.</description>
