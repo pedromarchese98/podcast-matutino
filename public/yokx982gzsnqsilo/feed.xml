@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Sat, 14 Nov 2026 07:48:32 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:49:42 -0300</lastBuildDate>
+    <item>
+      <title>Domingo 15 de noviembre</title>
+      <description>Rebote de bonos y baja del riesgo país, inflación de octubre, la renuncia de Jensen Huang a Nvidia, petroleros incendiados en Ormuz y Milei confirma que buscará la reelección.</description>
+      <itunes:summary>Rebote de bonos y baja del riesgo país, inflación de octubre, la renuncia de Jensen Huang a Nvidia, petroleros incendiados en Ormuz y Milei confirma que buscará la reelección.</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-15</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-15.mp3" length="3934293" type="audio/mpeg"/>
+      <itunes:duration>8:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sábado 14 de noviembre</title>
       <description>Inflación de octubre en 2,2% y suba semanal del dólar blue, la renuncia de Jensen Huang en Nvidia, la Fed rumbo a subir tasas, la tensión con Irán y la falla que frenó los vuelos en Estados Unidos.</description>
