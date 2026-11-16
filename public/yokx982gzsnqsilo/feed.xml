@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Sun, 15 Nov 2026 07:49:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:48:47 -0300</lastBuildDate>
+    <item>
+      <title>Lunes 16 de noviembre</title>
+      <description>El dólar mayorista tras cinco semanas de suba y el riesgo país en 832 puntos, la expectativa de suba de tasas de la Fed, la crisis de conducción en Nvidia, la semana clave para las negociaciones por Ucrania y la reforma electoral en el Congreso.</description>
+      <itunes:summary>El dólar mayorista tras cinco semanas de suba y el riesgo país en 832 puntos, la expectativa de suba de tasas de la Fed, la crisis de conducción en Nvidia, la semana clave para las negociaciones por Ucrania y la reforma electoral en el Congreso.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-16</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-16.mp3" length="4052576" type="audio/mpeg"/>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Domingo 15 de noviembre</title>
       <description>Rebote de bonos y baja del riesgo país, inflación de octubre, la renuncia de Jensen Huang a Nvidia, petroleros incendiados en Ormuz y Milei confirma que buscará la reelección.</description>
