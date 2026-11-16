@@ -3,7 +3,12 @@
 
 Uso:
   python3 publicar.py --mp3 /ruta/resumen-2026-11-12.mp3 --fecha 2026-11-12 \
-      --titulo "Jueves 12 de noviembre" --descripcion "Inflación, Nvidia, Ucrania..."
+      --titulo "Jueves 12 de noviembre" --descripcion "Inflación, Nvidia, Ucrania..." \
+      --registro /ruta/registro-del-dia.json
+
+El archivo de --registro tiene la forma:
+  {"tema_a_fondo": "...", "noticias": [{"tema": "...", "dato": "..."}]}
+y se acumula en registro.json (últimos 21 días) para no repetir noticias.
 
 Después hay que hacer commit y push; Vercel publica solo.
 """
@@ -21,6 +26,8 @@ CONFIG = json.loads((RAIZ / "config.json").read_text(encoding="utf-8"))
 SITIO = RAIZ / "public" / CONFIG["slug"]
 EPISODIOS_DIR = SITIO / "episodios"
 INDICE = RAIZ / "episodios.json"
+REGISTRO = RAIZ / "registro.json"
+DIAS_REGISTRO = 21
 BASE = f'{CONFIG["base_url"].rstrip("/")}/{CONFIG["slug"]}'
 ARG = timezone(timedelta(hours=-3))
 
@@ -35,6 +42,27 @@ def duracion_segundos(mp3: Path) -> int:
 
 def cargar() -> list:
     return json.loads(INDICE.read_text(encoding="utf-8")) if INDICE.exists() else []
+
+
+def actualizar_registro(fecha: str, ruta: str) -> None:
+    """Guarda qué noticias se contaron en el episodio, para no repetirlas."""
+    nuevo = json.loads(Path(ruta).read_text(encoding="utf-8"))
+    noticias = [
+        {"tema": str(n["tema"]).strip(), "dato": str(n["dato"]).strip()}
+        for n in nuevo.get("noticias", [])
+    ]
+    if not noticias:
+        raise SystemExit("El registro no tiene noticias: revisá el archivo de --registro.")
+    registro = json.loads(REGISTRO.read_text(encoding="utf-8")) if REGISTRO.exists() else {"episodios": []}
+    episodios = [e for e in registro["episodios"] if e["fecha"] != fecha]
+    episodios.append({
+        "fecha": fecha,
+        "tema_a_fondo": str(nuevo.get("tema_a_fondo", "")).strip(),
+        "noticias": noticias,
+    })
+    limite = (datetime.strptime(fecha, "%Y-%m-%d") - timedelta(days=DIAS_REGISTRO)).strftime("%Y-%m-%d")
+    episodios = sorted((e for e in episodios if e["fecha"] >= limite), key=lambda e: e["fecha"], reverse=True)
+    REGISTRO.write_text(json.dumps({"episodios": episodios}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def generar_feed(episodios: list) -> str:
@@ -81,6 +109,7 @@ def main() -> None:
     p.add_argument("--fecha", required=True, help="AAAA-MM-DD")
     p.add_argument("--titulo", required=True)
     p.add_argument("--descripcion", required=True)
+    p.add_argument("--registro", help="JSON con las noticias contadas en el episodio")
     a = p.parse_args()
 
     datetime.strptime(a.fecha, "%Y-%m-%d")
@@ -106,6 +135,9 @@ def main() -> None:
     for viejo in episodios[CONFIG["max_episodios"]:]:
         (EPISODIOS_DIR / viejo["archivo"]).unlink(missing_ok=True)
     episodios = episodios[:CONFIG["max_episodios"]]
+
+    if a.registro:
+        actualizar_registro(a.fecha, a.registro)
 
     INDICE.write_text(json.dumps(episodios, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (SITIO / "feed.xml").write_text(generar_feed(episodios), encoding="utf-8")
