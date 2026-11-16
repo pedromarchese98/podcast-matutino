@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curso de geopolítica</title>
+    <link>https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/</link>
+    <atom:link href="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es-ar</language>
+    <description>Diez episodios para entender cómo funciona la geopolítica: por qué chocan los Estados, qué intereses hay detrás, cómo se pelea, cómo se negocia y cómo mueve la economía del mundo.</description>
+    <itunes:author>Podcast matutino</itunes:author>
+    <itunes:image href="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/portada.png"/>
+    <image><url>https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/portada.png</url><title>Curso de geopolítica</title><link>https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/</link></image>
+    <itunes:category text="Education"/>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <lastBuildDate>Mon, 16 Nov 2026 20:07:06 -0300</lastBuildDate>
+    <item>
+      <title>1. Por qué chocan los Estados</title>
+      <description>Poder, seguridad e intereses: las tres grandes formas de leer un conflicto, el dilema de seguridad y el peso de la política interna. Casos: la carrera naval antes de la Primera Guerra, Bucarest 2008 y Ucrania, el carbón y el acero europeos, y Malvinas.</description>
+      <itunes:summary>Poder, seguridad e intereses: las tres grandes formas de leer un conflicto, el dilema de seguridad y el peso de la política interna. Casos: la carrera naval antes de la Primera Guerra, Bucarest 2008 y Ucrania, el carbón y el acero europeos, y Malvinas.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 20:07:06 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-01</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/01.mp3" length="6059616" type="audio/mpeg"/>
+      <itunes:duration>12:37</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
