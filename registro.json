@@ -1,6 +1,96 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-17",
+      "tema_a_fondo": "Qué es una letra dólar linked y cómo funciona un canje de deuda",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Lunes 16: mayorista 1.551 (máximo nominal), oficial BNA 1.575, blue 1.600 (+25, mayor suba en cinco meses), MEP ~1.585, CCL ~1.680, riesgo país 855 puntos (+3%), Merval cayó más de 4%; BCRA compró US$33 millones (256 en noviembre), reservas por debajo de US$50.000 millones."
+        },
+        {
+          "tema": "Canje de letra dólar linked D30N6",
+          "dato": "Economía canjea hoy la D30N6 (unos US$4.743 millones, vence 30/11) por una letra a enero de 2027; el vencimiento de fin de mes podría bajar de $29,7 a $22,2 billones."
+        },
+        {
+          "tema": "Resultado fiscal",
+          "dato": "Superávit primario de octubre de $1,93 billones y financiero de $1,57 billones; acumulado de diez meses: primario ~1,4% del PBI."
+        },
+        {
+          "tema": "Crecimiento y declaraciones de Caputo y Milei",
+          "dato": "Caputo admitió que la economía crecerá menos (1,5% o 2%) tras una recesión técnica; Milei atribuyó la suba del riesgo país al temor a una vuelta del peronismo."
+        },
+        {
+          "tema": "Inversión de Toyota en Zárate",
+          "dato": "Toyota invertirá más de US$1.300 millones en una planta en Zárate para la pickup híbrida Tacoma desde 2030, bajo el RIGI."
+        },
+        {
+          "tema": "Wall Street y Nvidia",
+          "dato": "Lunes 16: Nasdaq -2,5%, S&P 500 -1,9%, Dow -1,4%, tercer día de caídas en tecnología; Nvidia -4%."
+        },
+        {
+          "tema": "Reserva Federal",
+          "dato": "Mañana se publican las minutas de octubre (tasa 3,75-4% con dos votos por subir); hoy sale el dato de ventas minoristas de octubre."
+        },
+        {
+          "tema": "Petróleo y Ormuz",
+          "dato": "Brent bajó a US$92,44 y WTI a US$85,72 por la recuperación del tránsito en Ormuz."
+        },
+        {
+          "tema": "Economía china",
+          "dato": "Datos de octubre por debajo de lo esperado: industria +4,8%, ventas minoristas +0,4%, inversión -8,1% en diez meses."
+        },
+        {
+          "tema": "Banco Central Europeo",
+          "dato": "Versiones de prensa: miembros del BCE ven una suba en diciembre seguida de pausa; mañana inflación del Reino Unido."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Nvidia presenta hoy su balance, el primero con Colette Kress como CEO interina; se esperan ingresos de ~US$109.000 millones."
+        },
+        {
+          "tema": "Restricciones a exportación de chips",
+          "dato": "Comercio de EE.UU. restringe el acceso remoto chino a chips vía centros de datos; licencias para Malasia, Tailandia, Indonesia, Singapur y Brasil."
+        },
+        {
+          "tema": "Salida a bolsa de Anthropic",
+          "dato": "Rango de US$70 a 78 por acción, valuación de hasta US$1,4 billones, precio el miércoles y cotización el jueves en Nasdaq; demanda ~7 veces la oferta."
+        },
+        {
+          "tema": "Demanda de California contra OpenAI",
+          "dato": "El fiscal Rob Bonta demandó a OpenAI por agentes de IA fuera de control; 80 incidentes documentados, incluido Hugging Face."
+        },
+        {
+          "tema": "Carrera espacial",
+          "dato": "SpaceX atrapó por primera vez la etapa superior de Starship tras un vuelo orbital; el Vulcan de ULA falló y perdió 40 satélites de Amazon Leo."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Reunión virtual con Witkoff, Kushner y cinco países europeos; acuerdan reunión en Berlín; el Kremlin rechaza sumar europeos. Mayor ataque de drones ucraniano, otra vez sobre el puente de Crimea."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "Llegó un tercer portaaviones estadounidense (Theodore Roosevelt), unos 53.000 militares; Irán dice haber lanzado drones contra Baréin, interceptados."
+        },
+        {
+          "tema": "Gira de Trump por Asia y cumbre con Xi y Putin",
+          "dato": "Trump llega a Manila; el jueves 19 en Shenzhen bilateral con Xi y primera cumbre trilateral China-Rusia-EE.UU. con Putin."
+        },
+        {
+          "tema": "Paro universitario",
+          "dato": "Otra semana de paros; los gremios rechazan el Presupuesto 2027 ($7,3 billones vs $11 billones reclamados) y anticipan paro el día del debate en Diputados (25/11)."
+        },
+        {
+          "tema": "Plus Ultra suspende vuelos",
+          "dato": "Plus Ultra suspendió desde el 17/11 los vuelos Madrid-Ezeiza sin fecha de regreso por reestructuración."
+        },
+        {
+          "tema": "Actualidad internacional",
+          "dato": "Huelga general en Francia por el costo de vida; se constituye el nuevo Parlamento de Serbia tras la derrota del SNS ante la lista estudiantil."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-16",
       "tema_a_fondo": "",
       "noticias": [
