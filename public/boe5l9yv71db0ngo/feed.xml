@@ -13,7 +13,7 @@
     <itunes:type>serial</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Tue, 17 Nov 2026 01:20:31 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:20:52 -0300</lastBuildDate>
     <item>
       <title>1. Por qué chocan los Estados</title>
       <description>Poder, seguridad e intereses: las tres grandes formas de leer un conflicto, el dilema de seguridad y el peso de la política interna. Casos: la carrera naval antes de la Primera Guerra, Bucarest 2008 y Ucrania, el carbón y el acero europeos, y Malvinas.</description>
@@ -119,6 +119,18 @@
       <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/09.mp3" length="5335084" type="audio/mpeg"/>
       <itunes:duration>11:07</itunes:duration>
       <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10. Argentina y América Latina en el tablero</title>
+      <description>Una región lejos de las guerras entre dos gigantes: las cartas de Argentina (alimentos, energía, litio y posición), el Atlántico Sur y la Antártida, la falta de dólares y cómo pararse entre Estados Unidos y China.</description>
+      <itunes:summary>Una región lejos de las guerras entre dos gigantes: las cartas de Argentina (alimentos, energía, litio y posición), el Atlántico Sur y la Antártida, la falta de dólares y cómo pararse entre Estados Unidos y China.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:52 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-10</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/10.mp3" length="5596517" type="audio/mpeg"/>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
