@@ -1,0 +1,87 @@
+Hola. Este es el cuarto episodio del curso de geopolítica. Hoy: la economía como arma.
+
+Un repaso rápido. En el episodio anterior vimos que la energía es poder, porque está mal repartida, no se reemplaza rápido y mueve todos los precios. Y vimos que la dependencia es de ida y vuelta: el que corta el suministro gana una vez y pierde al cliente.
+
+Hoy vamos a ampliar esa idea. La energía es una de las armas económicas, pero hay varias más. Y se usan cada vez más, por una razón simple. Entre potencias con armas nucleares, la guerra directa es demasiado peligrosa. Entonces la pelea se muda a otro terreno: el comercio, los bancos, la moneda y la tecnología. Es una forma de hacer daño sin disparar. Vamos a ver cómo funciona cada herramienta, y al final nos vamos a hacer la pregunta incómoda: si sirven.
+
+Las sanciones. Castigar sin invadir.
+
+Empecemos por la más conocida. Una sanción es una restricción económica que un país, o un grupo de países, le impone a otro para castigarlo o para obligarlo a cambiar de conducta. Puede ser prohibirle comprar ciertos productos, prohibirle vender los suyos, congelarle el dinero que tiene guardado afuera, o impedirle usar los bancos internacionales.
+
+La idea es vieja. Ya en los años treinta, la organización que precedió a las Naciones Unidas sancionó a la Italia de Mussolini por invadir Etiopía. No sirvió: las sanciones dejaron afuera el petróleo, que era lo único que de verdad dolía, e Italia completó la conquista. Ahí ya aparece la primera regla: una sanción con agujeros no funciona.
+
+El caso más grande de la historia es el de Rusia, desde dos mil veintidós. Tomemos tres medidas, porque cada una muestra una herramienta distinta.
+
+La primera fue congelar las reservas. Todos los bancos centrales guardan parte de sus ahorros en el exterior, en dólares y en euros. Rusia había juntado más de seiscientos cuarenta mil millones de dólares, pensando justamente en resistir sanciones. Los países occidentales le congelaron más de trescientos treinta mil millones, alrededor de la mitad. La mayor parte estaba en Europa, sobre todo en Bélgica. De un día para el otro, la mitad de los ahorros del país quedó fuera de su alcance.
+
+La segunda fue sacar a sus principales bancos de un sistema llamado Suift. Es, básicamente, el servicio de mensajería que usan los bancos de todo el mundo para ordenarse pagos entre sí. No mueve la plata, pero sin él hacer un pago internacional se vuelve lento, caro y complicado.
+
+La tercera fue más ingeniosa. En lugar de prohibir el petróleo ruso, lo que habría disparado los precios para todos, los países del Grupo de los Siete le pusieron un tope: sesenta dólares por barril. Las navieras y las aseguradoras occidentales, que dominan ese negocio, solo podían transportar petróleo ruso si se vendía por debajo de ese precio. El objetivo era que el petróleo siguiera fluyendo, pero que Rusia ganara menos.
+
+Qué pasó con Rusia.
+
+Acá viene lo interesante, porque el resultado no fue ni un éxito ni un fracaso. Fue las dos cosas.
+
+Por un lado, Rusia no colapsó. Muchos esperaban un derrumbe en pocos meses, y no ocurrió. Según el Fondo Monetario, su economía creció más de tres por ciento en dos mil veinticuatro, empujada en buena parte por el propio gasto de guerra. Y la guerra no se detuvo.
+
+Por qué aguantó. Porque encontró caminos alternativos. Le vendió el petróleo a China y a India. Armó lo que se conoce como una flota fantasma: cientos de barcos viejos, con dueños difíciles de rastrear y sin seguros occidentales, para esquivar el tope de precio. Pasó a comerciar con China en rublos y en yuanes, en lugar de dólares. Y los productos occidentales siguieron llegando, pero dando la vuelta por terceros países, que los compraban y los reexportaban.
+
+Por otro lado, las sanciones sí hicieron daño. Rusia vende su energía con descuento. Le faltan repuestos, componentes y tecnología. Depende cada vez más de un solo socio, China, que le pone las condiciones. Es un daño lento, que no frena una guerra, pero que achica el futuro del país.
+
+Quedate con esa imagen, porque es el patrón general. Las sanciones rara vez tumban a un gobierno. Lo que hacen es encarecerle todo.
+
+El dólar. El arma que solo tiene uno.
+
+Para entender por qué Estados Unidos puede sancionar con tanta fuerza, hay que entender el papel del dólar.
+
+Más de la mitad de las reservas de los bancos centrales del mundo están en dólares. La mayor parte del comercio internacional, incluido el petróleo, se factura en dólares, aunque ni el comprador ni el vendedor sean estadounidenses. Y acá está el detalle técnico que lo cambia todo: casi cualquier pago en dólares, en algún momento, pasa por un banco en Estados Unidos. Eso le da a Washington jurisdicción sobre operaciones que ocurren en la otra punta del planeta.
+
+De ahí sale la herramienta más temida: la sanción secundaria. Estados Unidos no solo le prohíbe a sus empresas comerciar con un país sancionado. Le dice al resto del mundo: si vos comerciás con ese país, te quedás sin acceso al sistema del dólar. Y ningún banco grande puede sobrevivir sin operar en dólares.
+
+Un ejemplo concreto. En dos mil catorce, un gran banco francés aceptó pagar una multa de casi nueve mil millones de dólares a Estados Unidos, por haber hecho operaciones con países sancionados por Washington, como Irán, Sudán y Cuba. Era un banco francés, y esas operaciones no eran ilegales en Francia. Pero se habían hecho en dólares. Ese es el alcance de la herramienta.
+
+Los especialistas tienen un nombre para esto: interdependencia convertida en arma. La idea es que la economía mundial funciona como una red, y que las redes tienen nudos centrales. Quien controla un nudo, sea el sistema de pagos, los seguros marítimos o una tecnología clave, puede vigilar a los demás o dejarlos afuera.
+
+Aranceles y controles. Las otras herramientas.
+
+Hay tres instrumentos más que conviene distinguir.
+
+El primero son los aranceles, es decir, los impuestos a lo que se importa. Tradicionalmente eran una herramienta comercial, para proteger a una industria. Pero desde dos mil dieciocho, y con mucha más fuerza desde dos mil veinticinco, Estados Unidos los usa como palanca política: amenaza con subirlos para conseguir concesiones, incluso de sus aliados. El problema del arancel es que también lo paga el que lo impone, porque encarece los productos para sus propios consumidores y empresas.
+
+El segundo son los controles de exportación. Acá no se trata de no comprarle al otro, sino de no venderle algo que necesita y no puede fabricar. El caso central son los chips avanzados, que Estados Unidos restringe a China. A eso le vamos a dedicar todo el próximo episodio.
+
+El tercero es la presión comercial dirigida, que China usó varias veces. Cuando Australia pidió una investigación internacional sobre el origen de la pandemia, China le puso trabas a su cebada, su vino y su carbón. Cuando Lituania permitió abrir una oficina de representación de Taiwán, sus exportaciones a China prácticamente desaparecieron de un día para el otro. Rara vez se anuncia como sanción. Aparece como un problema sanitario o un trámite aduanero. Pero el mensaje se entiende.
+
+Y hay una versión más antigua y más dura de todo esto: el bloqueo. Este año, Estados Unidos impuso un bloqueo naval a los puertos de Irán. No es una restricción en los papeles, sino barcos de guerra impidiendo el paso. Más de cien cargueros fueron desviados, y la inflación iraní se disparó. Es la guerra económica en su forma más directa.
+
+También existe la zanahoria.
+
+No todo es castigo. La economía también se usa para premiar y para atraer. Préstamos, inversiones, acceso a un mercado, ayuda financiera en un momento de apuro.
+
+Argentina es un buen ejemplo, porque recibió ayuda de los dos lados de la gran rivalidad actual. Durante años, el Banco Central tuvo un acuerdo de intercambio de monedas con China, por unos dieciocho mil millones de dólares, que le sirvió para reforzar reservas y pagar importaciones. Y en dos mil veinticinco, el Tesoro de Estados Unidos le abrió una línea similar, por veinte mil millones. No hace falta suponer mala intención para ver que ese tipo de apoyo construye influencia. Quien te ayuda en un momento difícil gana un lugar en tus decisiones futuras. Sobre esto vamos a volver en el último episodio.
+
+La pregunta incómoda. Funcionan.
+
+Ahora sí. Después de todo esto, las sanciones sirven.
+
+Los estudios que revisaron cientos de casos a lo largo de un siglo llegan a una conclusión modesta: logran su objetivo, al menos en parte, en una minoría de los casos. Aproximadamente uno de cada tres. Y funcionan mejor en ciertas condiciones.
+
+Funcionan mejor cuando el objetivo es acotado. Conseguir que un país libere a un prisionero o firme un acuerdo es posible. Conseguir que un gobierno entregue el poder, casi nunca. Cuba lleva más de sesenta años bajo embargo estadounidense, y el gobierno sigue ahí.
+
+Funcionan mejor cuando las aplican muchos países a la vez. Si los grandes compradores no se suman, el sancionado simplemente cambia de clientes, como hizo Rusia.
+
+Y funcionan mejor contra países que dependen mucho de quien sanciona. Contra una economía grande, con recursos propios y socios alternativos, el efecto se diluye.
+
+El caso que suele citarse como éxito es Sudáfrica. En los años ochenta, la presión económica internacional fue uno de los factores, junto con la resistencia interna, que llevaron al fin del régimen de segregación racial. Y con Irán hubo un éxito parcial: las sanciones lo llevaron a firmar en dos mil quince un acuerdo que limitaba su programa nuclear. Ese acuerdo después se rompió, y eso es materia del episodio ocho.
+
+Hay además dos costos que conviene tener presentes. Uno es humano: las sanciones amplias suelen golpear más a la población que a los gobernantes, que siempre encuentran cómo protegerse. El otro es estratégico. Cada vez que Estados Unidos usa el dólar como arma, les da a los demás un motivo para buscar alternativas. China armó su propio sistema de pagos. Rusia y China comercian en sus monedas. Hasta ahora eso no desplazó al dólar, que sigue siendo, por lejos, la moneda dominante. Pero es el mismo mecanismo que vimos con la energía: usar el arma empuja al otro a dejar de depender.
+
+Para llevarte.
+
+Tres ideas de hoy. Primera: entre potencias nucleares, la pelea se mudó a la economía. Sanciones, aranceles, controles de exportación y bloqueos son las armas de esta época. Segunda: el poder económico viene de controlar los nudos de la red, y el más importante es el dólar, porque casi todo pago internacional pasa por él. Tercera: las sanciones rara vez derriban gobiernos. Lo que hacen es encarecerles todo, y funcionan mejor cuando el objetivo es chico y las aplican muchos.
+
+Cuando leas que se anuncian sanciones contra un país, preguntate tres cosas. Qué buscan exactamente. Quiénes no se sumaron. Y por dónde va a encontrar el sancionado la forma de esquivarlas.
+
+En el próximo episodio vamos a mirar de cerca la herramienta que hoy dejamos pendiente: la tecnología. Vamos a ver por qué un chip más chico que una uña se convirtió en el objeto más disputado del planeta, y por qué una isla del tamaño de una provincia argentina está en el centro de la rivalidad entre Estados Unidos y China.
+
+Hasta la próxima.

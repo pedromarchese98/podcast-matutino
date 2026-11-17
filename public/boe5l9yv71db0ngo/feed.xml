@@ -13,7 +13,7 @@
     <itunes:type>serial</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Mon, 16 Nov 2026 20:42:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:20:31 -0300</lastBuildDate>
     <item>
       <title>1. Por qué chocan los Estados</title>
       <description>Poder, seguridad e intereses: las tres grandes formas de leer un conflicto, el dilema de seguridad y el peso de la política interna. Casos: la carrera naval antes de la Primera Guerra, Bucarest 2008 y Ucrania, el carbón y el acero europeos, y Malvinas.</description>
@@ -23,6 +23,102 @@
       <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/01.mp3" length="5834545" type="audio/mpeg"/>
       <itunes:duration>12:09</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2. La geografía manda</title>
+      <description>Los pasos angostos por donde pasa el comercio mundial y lo que le falta a cada país en el mapa. Casos: Ormuz en 2026, el dilema de Malaca, Suez en 1956, el Bósforo, la llanura rusa y los países sin salida al mar.</description>
+      <itunes:summary>Los pasos angostos por donde pasa el comercio mundial y lo que le falta a cada país en el mapa. Casos: Ormuz en 2026, el dilema de Malaca, Suez en 1956, el Bósforo, la llanura rusa y los países sin salida al mar.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:30 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-02</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/02.mp3" length="5208233" type="audio/mpeg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3. Energía y poder</title>
+      <description>Por qué el petróleo y el gas son herramientas de presión y por qué el vendedor también depende. Casos: el embargo de 1973, el gas ruso y Europa, la revolución del petróleo no convencional, Ormuz y los minerales de la transición.</description>
+      <itunes:summary>Por qué el petróleo y el gas son herramientas de presión y por qué el vendedor también depende. Casos: el embargo de 1973, el gas ruso y Europa, la revolución del petróleo no convencional, Ormuz y los minerales de la transición.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:30 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-03</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/03.mp3" length="4948262" type="audio/mpeg"/>
+      <itunes:duration>10:19</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>4. La economía como arma</title>
+      <description>Sanciones, el poder del dólar, aranceles, controles de exportación y bloqueos, y la pregunta de si funcionan. Casos: Rusia desde 2022, la multa a un banco francés, Sudáfrica, Cuba y los swaps de Argentina.</description>
+      <itunes:summary>Sanciones, el poder del dólar, aranceles, controles de exportación y bloqueos, y la pregunta de si funcionan. Casos: Rusia desde 2022, la multa a un banco francés, Sudáfrica, Cuba y los swaps de Argentina.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:30 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-04</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/04.mp3" length="5200292" type="audio/mpeg"/>
+      <itunes:duration>10:50</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>5. Tecnología y chips</title>
+      <description>La cadena de los chips y sus cuellos de botella, los controles de Estados Unidos a China y por qué Taiwán concentra identidad, geografía y tecnología. El debate sobre el escudo de silicio.</description>
+      <itunes:summary>La cadena de los chips y sus cuellos de botella, los controles de Estados Unidos a China y por qué Taiwán concentra identidad, geografía y tecnología. El debate sobre el escudo de silicio.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:31 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-05</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/05.mp3" length="5012210" type="audio/mpeg"/>
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>6. Cómo se pelea hoy</title>
+      <description>La disuasión nuclear, las guerras por delegación, la zona gris, los drones, los ataques informáticos y los ejércitos privados. Casos: Cuba 1962, Afganistán, Crimea 2014, Ucrania y la guerra con Irán.</description>
+      <itunes:summary>La disuasión nuclear, las guerras por delegación, la zona gris, los drones, los ataques informáticos y los ejércitos privados. Casos: Cuba 1962, Afganistán, Crimea 2014, Ucrania y la guerra con Irán.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:31 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-06</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/06.mp3" length="5060902" type="audio/mpeg"/>
+      <itunes:duration>10:33</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>7. Alianzas y bloques</title>
+      <description>Qué obliga realmente la OTAN, qué son los Brics, por qué Rusia y China son socios y no aliados, y por qué tantos países eligen no alinearse. Casos: Finlandia y Suecia, 1914, India y Turquía.</description>
+      <itunes:summary>Qué obliga realmente la OTAN, qué son los Brics, por qué Rusia y China son socios y no aliados, y por qué tantos países eligen no alinearse. Casos: Finlandia y Suecia, 1914, India y Turquía.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:31 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-07</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/07.mp3" length="5440827" type="audio/mpeg"/>
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>8. La diplomacia por dentro</title>
+      <description>Por qué es tan difícil parar una guerra, quién puede mediar, los canales secretos y por qué se caen los acuerdos. Casos: el Beagle y la mediación papal, Egipto e Israel, Bosnia, los acuerdos sobre Ucrania e Irán.</description>
+      <itunes:summary>Por qué es tan difícil parar una guerra, quién puede mediar, los canales secretos y por qué se caen los acuerdos. Casos: el Beagle y la mediación papal, Egipto e Israel, Bosnia, los acuerdos sobre Ucrania e Irán.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:31 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-08</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/08.mp3" length="5763074" type="audio/mpeg"/>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>9. Quién gana y quién pierde</title>
+      <description>Seguir el dinero: la industria de defensa, los que venden lo que escasea, los países que pagan sin pelear, los intermediarios y el nuevo mapa de las fábricas. El caso argentino de 2022.</description>
+      <itunes:summary>Seguir el dinero: la industria de defensa, los que venden lo que escasea, los países que pagan sin pelear, los intermediarios y el nuevo mapa de las fábricas. El caso argentino de 2022.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 01:20:31 -0300</pubDate>
+      <guid isPermaLink="false">curso-geopolitica-09</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/boe5l9yv71db0ngo/episodios/09.mp3" length="5335084" type="audio/mpeg"/>
+      <itunes:duration>11:07</itunes:duration>
+      <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

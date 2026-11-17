@@ -1,0 +1,81 @@
+Hola. Este es el quinto episodio del curso de geopolítica. Hoy: tecnología y chips.
+
+Un repaso rápido. En el episodio anterior vimos que la economía se usa como arma: sanciones, aranceles, bloqueos y el poder del dólar. Dijimos que el poder económico viene de controlar los nudos de una red. Y dejamos una herramienta pendiente: los controles de exportación, es decir, negarle al rival algo que necesita y no puede fabricar.
+
+Hoy vamos a ver el caso más importante de esa herramienta. Es la historia de un objeto diminuto, el chip, y de cómo se convirtió en el centro de la rivalidad entre Estados Unidos y China. Y es también la historia de una isla, Taiwán, donde se cruzan todas las ideas que vimos hasta ahora: seguridad, geografía, economía y tecnología.
+
+Qué es un chip y por qué importa tanto.
+
+Un chip es una pequeña placa de silicio con miles de millones de interruptores microscópicos, llamados transistores. Cuantos más transistores entran en el mismo espacio, más potente y más eficiente es el chip. Los más avanzados tienen componentes miles de veces más finos que un cabello.
+
+Hay chips en todo: en el celular, en el auto, en la heladera, en un respirador de hospital. Pero los que importan para la geopolítica son los de punta, por dos razones. La primera es militar: los misiles guiados, los radares, los drones y los satélites dependen de ellos. La segunda es la inteligencia artificial. Entrenar un sistema de inteligencia artificial avanzado requiere miles de chips muy potentes funcionando a la vez. Y hoy casi todos los gobiernos creen que quien lidere esa tecnología va a tener ventaja económica y militar durante décadas.
+
+Entonces, la pregunta es quién fabrica esos chips. Y la respuesta es la clave de todo el episodio.
+
+La cadena más frágil del mundo.
+
+Ningún país fabrica un chip avanzado por su cuenta. Es, probablemente, el producto más complejo que hace la humanidad, y su fabricación está repartida entre un puñado de empresas en un puñado de países. Cada una domina un paso, y casi no tiene reemplazo.
+
+El diseño se hace sobre todo en Estados Unidos. Empresas como Envidia o Apple dibujan los chips, pero no los fabrican.
+
+La fabricación de los chips más avanzados está concentrada en una sola empresa taiwanesa, conocida por sus siglas, Te Ese Eme Ce. Esa empresa produce más del noventa por ciento de los procesadores más avanzados del mundo. Vale la pena repetirlo: más de nueve de cada diez, en una sola isla.
+
+Para fabricarlos hacen falta máquinas que imprimen circuitos con luz. Las más avanzadas las fabrica una única empresa en el mundo, que está en Países Bajos. Cada máquina cuesta más de ciento cincuenta millones de dólares, tiene más de cien mil componentes, y lleva espejos de una precisión que solo logra una empresa alemana.
+
+Y los químicos y materiales especiales vienen, en gran parte, de Japón.
+
+Ahora recordá el episodio dos. Hablamos de los cuellos de botella del mar: pasos angostos por donde tiene que pasar todo. La cadena de los chips es lo mismo, pero en la industria. Son estrechos tecnológicos. Y hay un detalle político decisivo: casi todos esos pasos están en Estados Unidos o en países aliados de Estados Unidos. China, que es el mayor comprador de chips del mundo, no controla ninguno.
+
+Octubre de dos mil veintidós. El cerrojo.
+
+Durante años, Estados Unidos le vendió tecnología a China sin mayores problemas. Eso cambió por etapas. Primero fue contra una empresa: en dos mil diecinueve, Washington sancionó al gigante chino de telecomunicaciones Juáuei, acusándolo de ser un riesgo de seguridad, y le cortó el acceso a componentes estadounidenses.
+
+El salto grande llegó en octubre de dos mil veintidós. Estados Unidos prohibió venderle a China los chips más avanzados, y también las máquinas para fabricarlos. Y fue más lejos: presionó a Países Bajos y a Japón para que hicieran lo mismo con sus equipos. Usó, justamente, su control sobre los nudos de la red.
+
+El objetivo declarado era frenar el avance militar chino. Pero el efecto es más amplio: mantener a China varios años por detrás en la tecnología que define el futuro. Para Pekín, fue la confirmación de algo que ya sospechaba: que Estados Unidos busca contener su ascenso. Fijate que es otra vez el dilema de seguridad del primer episodio. Para Washington, es una medida defensiva. Para Pekín, es un ataque a su desarrollo.
+
+Funcionó.
+
+La respuesta honesta es: en parte, y con un costo.
+
+Por un lado, China sigue sin poder fabricar los chips de última generación en gran escala, y eso la frena de verdad. Por otro lado, reaccionó como reacciona cualquiera al que le cortan algo vital, y ya vimos ese patrón con la energía y con las sanciones. Volcó una cantidad enorme de dinero estatal a desarrollar su propia industria. En dos mil veintitrés, Juáuei sorprendió con un teléfono que llevaba un chip avanzado fabricado en China, algo que muchos expertos creían imposible tan pronto. Y a comienzos de dos mil veinticinco, una empresa china presentó un sistema de inteligencia artificial, Dip Sik, que competía con los mejores del mundo usando muchos menos recursos.
+
+Además, China respondió con su propia carta. Recordá el episodio tres: China domina el procesamiento de los minerales estratégicos. Empezó a restringir la exportación de algunos de ellos, incluidas las tierras raras, que son indispensables para la industria occidental, incluida la de defensa. Cada lado descubrió que el otro también tiene un cuello de botella.
+
+Y hay un tercer grupo que queda atrapado en el medio: las empresas y los países aliados. La compañía neerlandesa perdió a uno de sus mejores clientes. Los fabricantes coreanos y japoneses tienen que elegir entre su principal aliado militar y su principal mercado. Esa incomodidad de los países del medio es un tema que va a volver en el episodio siete.
+
+Taiwán. Donde se cruza todo.
+
+Ahora sí, hablemos de la isla. Para entender por qué es el punto más delicado del planeta, hace falta un poco de historia.
+
+En mil novecientos cuarenta y nueve terminó la guerra civil china. Ganaron los comunistas, que fundaron en el continente la República Popular China. El gobierno derrotado se refugió en la isla de Taiwán, a unos ciento treinta kilómetros de la costa. Desde entonces, en los hechos, hay dos gobiernos. Pero China continental sostiene que Taiwán es parte de su territorio y que la reunificación es inevitable. Su presidente, Shi Yinpín, lo repite con frecuencia, y no descarta el uso de la fuerza.
+
+Taiwán, mientras tanto, se convirtió en una democracia de unos veintitrés millones de habitantes, con gobierno, moneda y ejército propios. Y acá hay un detalle que suele confundir. Casi ningún país la reconoce formalmente como Estado independiente. Ni Estados Unidos, ni Argentina, ni la gran mayoría. Casi todos mantienen relaciones oficiales con Pekín y vínculos informales con Taiwán.
+
+La posición de Estados Unidos es deliberadamente confusa, y tiene nombre: ambigüedad estratégica. Washington le vende armas a Taiwán, pero nunca dice con claridad si la defendería en caso de ataque. La lógica es doble. Si prometiera defenderla, Taiwán podría animarse a declarar la independencia, y eso provocaría a China. Si dijera que no la va a defender, China podría animarse a invadir. La ambigüedad busca frenar a los dos.
+
+Por qué a China le importa tanto. Hay tres motivos, y coinciden con los tres anteojos del primer episodio. Uno es de identidad: para el gobierno chino, recuperar Taiwán es cerrar una herida histórica, y lo presenta como una cuestión de dignidad nacional. Otro es de geografía. Taiwán está en el medio de una cadena de islas que va de Japón a Filipinas, y que funciona como una barrera entre la costa china y el océano Pacífico. Con Taiwán en manos amigas de Estados Unidos, la marina china está encerrada. El tercero es la tecnología: allí están las fábricas de chips de las que depende el mundo entero.
+
+El escudo de silicio.
+
+Y eso nos lleva a una idea muy discutida. Algunos sostienen que las fábricas de chips protegen a Taiwán. Lo llaman el escudo de silicio. El razonamiento es que una guerra destruiría o paralizaría esas fábricas, y eso hundiría la economía mundial, incluida la china. Entonces nadie se atrevería. Hay estimaciones privadas, muy citadas, según las cuales una guerra por Taiwán costaría alrededor del diez por ciento de la economía mundial. Bastante más que la pandemia.
+
+Pero otros dudan. Dicen que es el argumento liberal del primer episodio, y que ya vimos sus límites con el gas ruso: la dependencia mutua encarece la guerra, pero no la impide. Y señalan una paradoja. Estados Unidos, para no depender de una isla en riesgo, está empujando a la empresa taiwanesa a construir fábricas en su territorio, con una ley que destina más de cincuenta mil millones de dólares a esa industria. Tiene lógica. Pero cuanto más se muda la producción fuera de Taiwán, más delgado se vuelve el escudo.
+
+Y recordá que no hace falta una invasión. Lo aprendimos este año con Ormuz y con el bloqueo a Irán. A una isla que importa casi toda su energía y su comida se la puede ahogar cerrándole el paso a los barcos. Es el escenario que más preocupa a muchos analistas, justamente porque es más ambiguo que una invasión, y deja a los demás sin saber cómo responder.
+
+No son solo chips.
+
+Antes de cerrar, vale la pena ampliar la mirada, porque la pelea tecnológica tiene otros frentes.
+
+Uno son los cables submarinos. Casi todo el tráfico de internet entre continentes viaja por cables tendidos en el fondo del mar, no por satélite. Son pocos, y son vulnerables. Otro son las redes de telefonía: varios países prohibieron los equipos de Juáuei por temor al espionaje. Y otro son los satélites. En Ucrania, las comunicaciones del ejército dependieron en buena parte de una red satelital que pertenece a una empresa privada estadounidense. Eso abrió una pregunta nueva: qué pasa cuando una capacidad militar decisiva está en manos de un empresario y no de un gobierno.
+
+Para llevarte.
+
+Tres ideas de hoy. Primera: la tecnología de punta tiene sus propios cuellos de botella. Unas pocas empresas, en unos pocos países, controlan pasos sin reemplazo, y quien los controla puede dejar afuera a un rival. Segunda: negarle tecnología a un competidor lo frena en el corto plazo, pero lo empuja a fabricarla por su cuenta y a responder con sus propias restricciones. Tercera: Taiwán concentra todo. Identidad, geografía y chips. Por eso es el lugar donde un error de cálculo sería más caro para el mundo entero.
+
+Cuando leas una noticia sobre tecnología, sea una prohibición, una fábrica nueva o una empresa sancionada, preguntate qué paso de la cadena se está disputando y quién más lo puede hacer.
+
+Hasta acá hablamos de cómo se compite sin disparar. En el próximo episodio vamos a hablar de lo que pasa cuando sí se dispara. Vamos a ver cómo se pelea hoy: las guerras por delegación, los drones, los ataques informáticos, y por qué las armas nucleares, que nadie usa, lo condicionan todo.
+
+Hasta la próxima.

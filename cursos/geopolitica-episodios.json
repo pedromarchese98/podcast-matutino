@@ -7,5 +7,77 @@
     "bytes": 5834545,
     "segundos": 729,
     "publicado": "Mon, 16 Nov 2026 20:07:06 -0300"
+  },
+  {
+    "numero": 2,
+    "titulo": "La geografía manda",
+    "descripcion": "Los pasos angostos por donde pasa el comercio mundial y lo que le falta a cada país en el mapa. Casos: Ormuz en 2026, el dilema de Malaca, Suez en 1956, el Bósforo, la llanura rusa y los países sin salida al mar.",
+    "archivo": "02.mp3",
+    "bytes": 5208233,
+    "segundos": 651,
+    "publicado": "Tue, 17 Nov 2026 01:20:30 -0300"
+  },
+  {
+    "numero": 3,
+    "titulo": "Energía y poder",
+    "descripcion": "Por qué el petróleo y el gas son herramientas de presión y por qué el vendedor también depende. Casos: el embargo de 1973, el gas ruso y Europa, la revolución del petróleo no convencional, Ormuz y los minerales de la transición.",
+    "archivo": "03.mp3",
+    "bytes": 4948262,
+    "segundos": 619,
+    "publicado": "Tue, 17 Nov 2026 01:20:30 -0300"
+  },
+  {
+    "numero": 4,
+    "titulo": "La economía como arma",
+    "descripcion": "Sanciones, el poder del dólar, aranceles, controles de exportación y bloqueos, y la pregunta de si funcionan. Casos: Rusia desde 2022, la multa a un banco francés, Sudáfrica, Cuba y los swaps de Argentina.",
+    "archivo": "04.mp3",
+    "bytes": 5200292,
+    "segundos": 650,
+    "publicado": "Tue, 17 Nov 2026 01:20:30 -0300"
+  },
+  {
+    "numero": 5,
+    "titulo": "Tecnología y chips",
+    "descripcion": "La cadena de los chips y sus cuellos de botella, los controles de Estados Unidos a China y por qué Taiwán concentra identidad, geografía y tecnología. El debate sobre el escudo de silicio.",
+    "archivo": "05.mp3",
+    "bytes": 5012210,
+    "segundos": 626,
+    "publicado": "Tue, 17 Nov 2026 01:20:31 -0300"
+  },
+  {
+    "numero": 6,
+    "titulo": "Cómo se pelea hoy",
+    "descripcion": "La disuasión nuclear, las guerras por delegación, la zona gris, los drones, los ataques informáticos y los ejércitos privados. Casos: Cuba 1962, Afganistán, Crimea 2014, Ucrania y la guerra con Irán.",
+    "archivo": "06.mp3",
+    "bytes": 5060902,
+    "segundos": 633,
+    "publicado": "Tue, 17 Nov 2026 01:20:31 -0300"
+  },
+  {
+    "numero": 7,
+    "titulo": "Alianzas y bloques",
+    "descripcion": "Qué obliga realmente la OTAN, qué son los Brics, por qué Rusia y China son socios y no aliados, y por qué tantos países eligen no alinearse. Casos: Finlandia y Suecia, 1914, India y Turquía.",
+    "archivo": "07.mp3",
+    "bytes": 5440827,
+    "segundos": 680,
+    "publicado": "Tue, 17 Nov 2026 01:20:31 -0300"
+  },
+  {
+    "numero": 8,
+    "titulo": "La diplomacia por dentro",
+    "descripcion": "Por qué es tan difícil parar una guerra, quién puede mediar, los canales secretos y por qué se caen los acuerdos. Casos: el Beagle y la mediación papal, Egipto e Israel, Bosnia, los acuerdos sobre Ucrania e Irán.",
+    "archivo": "08.mp3",
+    "bytes": 5763074,
+    "segundos": 720,
+    "publicado": "Tue, 17 Nov 2026 01:20:31 -0300"
+  },
+  {
+    "numero": 9,
+    "titulo": "Quién gana y quién pierde",
+    "descripcion": "Seguir el dinero: la industria de defensa, los que venden lo que escasea, los países que pagan sin pelear, los intermediarios y el nuevo mapa de las fábricas. El caso argentino de 2022.",
+    "archivo": "09.mp3",
+    "bytes": 5335084,
+    "segundos": 667,
+    "publicado": "Tue, 17 Nov 2026 01:20:31 -0300"
   }
 ]
