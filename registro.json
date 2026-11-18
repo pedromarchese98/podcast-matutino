@@ -1,6 +1,76 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-18",
+      "tema_a_fondo": "Cómo funciona una salida a bolsa y cómo se fija el precio de las acciones",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Martes 17: mayorista ~1.552, BNA 1.575, blue 1.605 (máximo nominal), MEP ~1.600, CCL ~1.696, riesgo país ~855 sin cambios; activos argentinos resistieron. Wall Street cuarta baja seguida: Dow -1,6% (~50.760), S&P -1,03%, Nasdaq -0,74%. Brent ~US$93, WTI ~86."
+        },
+        {
+          "tema": "Canje de letra dólar linked D30N6",
+          "dato": "Adhesión del 60,19% (481 ofertas), US$2.875 millones a la nueva D29E7 (29/1/2027); se postergaron ~$4,4 billones y quedan ~US$1.867 millones para fin de mes."
+        },
+        {
+          "tema": "Jubilaciones ANSES",
+          "dato": "Sigue el calendario de pagos; haber mínimo de noviembre $444.158."
+        },
+        {
+          "tema": "Reserva Federal",
+          "dato": "Ventas minoristas de octubre +0,2% (+0,6% sin autos); mercado ve más de 90% de probabilidad de suba de 25 pb el 8-9 de diciembre; minutas de octubre hoy o mañana; dólar cerca de máximo de 19 meses."
+        },
+        {
+          "tema": "Petróleo y Ormuz",
+          "dato": "Brent cerró cerca de US$93 con leve suba por ataques a barcos en Ormuz, frente al excedente proyectado por la AIE; acumula ~-20% en noviembre."
+        },
+        {
+          "tema": "Inflación del Reino Unido",
+          "dato": "Subió a 3,6% anual en octubre (desde 3,5%) por combustibles; el BoE espera más subas hasta mediados de 2027."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Balance: ingresos US$115.800 millones (+103%) vs ~109.000 esperados, guía ~US$130.000 millones; acción +3-5% tras el cierre. Huang dijo que volvería si se lo piden; el presidente del directorio, Harvey Jones, descartó restituirlo."
+        },
+        {
+          "tema": "Salida a bolsa de Anthropic",
+          "dato": "Fija precio hoy y cotiza mañana; 825 millones de acciones a US$70-78; según el WSJ podría superar US$80."
+        },
+        {
+          "tema": "Microsoft y OpenAI nuevos modelos",
+          "dato": "Microsoft presentó modelos MAI propios en Ignite (dice MAI Code 2 iguala casi a GPT-6.1 a ~40% del precio); OpenAI lanzó GPT-6.2 Astra y Sol, Astra 20% más barato."
+        },
+        {
+          "tema": "Gira de Trump por Asia y cumbre con Xi y Putin",
+          "dato": "Xi recibió a Trump en el aeropuerto de Shenzhen (APEC); Xi se reunió antes con Putin; trilateral el jueves 19 sobre armas nucleares e Irán, sin Ucrania según la Casa Blanca."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Reunión de unos 20 líderes en Berlín el jueves 19 con Witkoff y Kushner; Wadephul pidió pasos valientes; el Kremlin minimiza el papel europeo."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "El jefe del ejército iraní Hatamí advirtió respuesta sin límites geográficos; según EFE, Irán atacó con drones una base en Kuwait tras bombardeos de EE.UU. sobre Qeshm."
+        },
+        {
+          "tema": "Suspensión de las PASO",
+          "dato": "Sin dictamen en Asuntos Constitucionales del Senado: el oficialismo tiene 8 de las 10 firmas; cuarto intermedio hasta el miércoles 18; discusión por listas colectoras; recinto previsto el 26/11."
+        },
+        {
+          "tema": "Malvinas y visita de la princesa Ana",
+          "dato": "Cancillería calificó de provocación la visita (hasta el 20/11), la vinculó con la explotación de hidrocarburos y recordó el arbitraje bajo la CONVEMAR."
+        },
+        {
+          "tema": "Actualidad argentina",
+          "dato": "Corrientes: 2.047 evacuados, tres localidades en alerta roja; General Roca (Córdoba) en desastre por temporal; sentencia hoy por el triple crimen de Barracas; la Selección goleó a Costa Rica."
+        },
+        {
+          "tema": "Hambruna en Sudán",
+          "dato": "El monitor de hambre respaldado por la ONU advirtió riesgo creciente de hambruna en Darfur y Kordofán."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-17",
       "tema_a_fondo": "Qué es una letra dólar linked y cómo funciona un canje de deuda",
       "noticias": [

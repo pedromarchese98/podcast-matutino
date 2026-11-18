@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Tue, 17 Nov 2026 09:26:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:40:14 -0300</lastBuildDate>
+    <item>
+      <title>Miércoles 18 de noviembre</title>
+      <description>El canje que postergó parte de la deuda de fin de mes, el balance de Nvidia y el portazo a Jensen Huang, la salida a bolsa de Anthropic, la cumbre de Trump, Xi y Putin y la demora en la suspensión de las PASO.</description>
+      <itunes:summary>El canje que postergó parte de la deuda de fin de mes, el balance de Nvidia y el portazo a Jensen Huang, la salida a bolsa de Anthropic, la cumbre de Trump, Xi y Putin y la demora en la suspensión de las PASO.</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-18</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-18.mp3" length="6523550" type="audio/mpeg"/>
+      <itunes:duration>13:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Martes 17 de noviembre</title>
       <description>El riesgo país en 855 puntos y el canje de deuda atada al dólar, el balance de Nvidia y la salida a bolsa de Anthropic, la escalada en Ucrania y la cumbre de Trump con Xi y Putin.</description>
