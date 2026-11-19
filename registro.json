@@ -1,6 +1,72 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-19",
+      "tema_a_fondo": "Por qué una suba de tasas en Estados Unidos afecta a los emergentes como Argentina",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Miércoles 18: blue 1.630 (+25, récord nominal), mayorista 1.559,50 (+0,5%), riesgo país 848 (-0,7%), Merval sin cambios, ADRs hasta -7%; S&P 500 -0,2% (quinta baja seguida), Dow -1,1% (~50.200), Nasdaq +0,4%; Brent 91,95 (-1,3%), WTI 82,31."
+        },
+        {
+          "tema": "Compras del BCRA y del Tesoro",
+          "dato": "BCRA compró entre US$11 y 33 millones según la fuente; versión no confirmada de que el Tesoro volvió a comprarle dólares al BCRA y superaría US$7.000 millones en el año (tope de 6.700); vencimiento de enero 2027 ~US$4.400 millones."
+        },
+        {
+          "tema": "Exportaciones de energía y Vaca Muerta",
+          "dato": "Según la BCR el crudo superó a la harina de soja como principal exportación en nueve meses; exportaciones energéticas US$12.452 millones (+53,6%), superávit energético US$9.427 millones; Argentina LNG adjudicó los caños hacia Río Negro."
+        },
+        {
+          "tema": "Reserva Federal",
+          "dato": "Minutas de octubre: casi todos los funcionarios ven probables subas en los próximos meses; Waller planteó considerar medio punto en diciembre, Williams lo descartó; riesgo por deuda de centros de datos de IA."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Acción cayó ~2,9% pese al balance, 36% bajo su máximo del 6/10; Huang aceptó declarar ante el Comité de Bancos del Senado el mes próximo; versión no confirmada de investigación de la SEC."
+        },
+        {
+          "tema": "Inflación y economía de la eurozona",
+          "dato": "Inflación de octubre 4% (máximo desde 2023, energía +21%, núcleo 2,6%); PBI del tercer trimestre +0,4%; se espera suba del BCE el 17/12; protestas por costo de vida en varios países."
+        },
+        {
+          "tema": "Salida a bolsa de Anthropic",
+          "dato": "Precio fijado en US$83 por acción, sobre el rango; valuación ~US$1,5 billones; según CNN ~980 millones de acciones y más de US$81.000 millones, récord; cotiza desde el jueves 19 en Nasdaq."
+        },
+        {
+          "tema": "Lanzamientos de IA de Google y Microsoft",
+          "dato": "Google lanzó Gemini 4 Neon con capacidades de agente; Microsoft presentó un sistema de agentes de ciberseguridad en Ignite."
+        },
+        {
+          "tema": "Gira de Trump por Asia y cumbre con Xi y Putin",
+          "dato": "Comenzó en Shenzhen la cumbre trilateral tras bilaterales por separado; agenda: armas nucleares, Irán, comercio; preocupación de Zelenski; sin resultados aún."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Witkoff y Kushner en Berlín el jueves 19 con ucranianos y europeos: garantías de seguridad, plan de reconstrucción y próxima ronda de negociaciones."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "EE.UU. bombardeó una plataforma de misiles en Qeshm; Irán atacó con drones la base Ali al Salem en Kuwait, sin heridos estadounidenses; el OIEA no puede verificar el programa nuclear."
+        },
+        {
+          "tema": "Política en Israel",
+          "dato": "Matan Kahana (partido de Eisenkot) electo presidente de la Knesset con 66 votos contra 52 del Likud; revés para Netanyahu."
+        },
+        {
+          "tema": "Venezuela y Estados Unidos",
+          "dato": "Firmaron un acuerdo de cooperación militar."
+        },
+        {
+          "tema": "Suspensión de las PASO",
+          "dato": "El oficialismo logró dictamen con 11 firmas tras sacar las colectoras; mantiene D'Hondt, suma Ficha Limpia y elimina la veda; sesión el 26/11, necesita 37 votos en el Senado y 129 en Diputados."
+        },
+        {
+          "tema": "Triple crimen de Barracas",
+          "dato": "Prisión perpetua por unanimidad para Justo Fernando Barrientos con agravante de odio por orientación sexual; fundamentos el 19/2/2027."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-18",
       "tema_a_fondo": "Cómo funciona una salida a bolsa y cómo se fija el precio de las acciones",
       "noticias": [

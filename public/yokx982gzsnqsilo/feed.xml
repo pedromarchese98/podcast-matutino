@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Wed, 18 Nov 2026 08:40:14 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:50:56 -0300</lastBuildDate>
+    <item>
+      <title>Jueves 19 de noviembre</title>
+      <description>Ántropic sale a bolsa a 83 dólares, las minutas de la Fed anticipan más subas, el petróleo supera a la soja como primera exportación, el dictamen para suspender las PASO y la cumbre de Trump, Xi y Putin.</description>
+      <itunes:summary>Ántropic sale a bolsa a 83 dólares, las minutas de la Fed anticipan más subas, el petróleo supera a la soja como primera exportación, el dictamen para suspender las PASO y la cumbre de Trump, Xi y Putin.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-19</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-19.mp3" length="6645595" type="audio/mpeg"/>
+      <itunes:duration>13:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Miércoles 18 de noviembre</title>
       <description>El canje que postergó parte de la deuda de fin de mes, el balance de Nvidia y el portazo a Jensen Huang, la salida a bolsa de Anthropic, la cumbre de Trump, Xi y Putin y la demora en la suspensión de las PASO.</description>
