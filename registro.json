@@ -1,6 +1,68 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-20",
+      "tema_a_fondo": "Qué son las reservas del Banco Central (brutas y netas), por qué cambian con el oro y cómo interviene un banco central en el mercado de cambios",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Jueves 19: riesgo país 931 (+83, casi +10%, +60% en el año), BNA 1.585 y mayorista 1.565 (máximos nominales), blue 1.640 (+10), Merval ~-2% (~80.800); Dow -2,2% (49.097), S&P -2% (sexta baja, 8,2% bajo récord), Nasdaq -2,25%; Brent ~92,6, WTI ~83,85."
+        },
+        {
+          "tema": "Salto del riesgo país",
+          "dato": "Causas: aversión global al riesgo y venta de emergentes, demanda de cobertura local, y el dictamen de las PASO no alcanzó; Buteler: tendencia de unos 70 días."
+        },
+        {
+          "tema": "Compras del BCRA y del Tesoro",
+          "dato": "El BCRA compró solo US$3 millones, la menor cifra del programa; promedio de noviembre US$31 millones vs 66 en octubre; reservas -108 millones a US$49.443 millones por el oro."
+        },
+        {
+          "tema": "DNU que amplía el Presupuesto",
+          "dato": "DNU amplía en $78,7 billones la autorización de deuda y refuerza jubilaciones, Fuerzas Armadas y empresas estatales; debe pasar por la Bicameral."
+        },
+        {
+          "tema": "Real brasileño y ajuste de Lula",
+          "dato": "El real tocó su nivel más bajo desde abril de 2025 (5,93 por dólar, seis subas seguidas) por dudas sobre el ajuste fiscal que aprobó el Senado; el BCB vendió ~US$1.000 millones."
+        },
+        {
+          "tema": "Informe de la Agencia Internacional de Energía",
+          "dato": "La AIE presentó su panorama energético mundial 2026: el shock de Medio Oriente cambia estructuralmente el sistema y su duración definirá la magnitud; gran inversión en redes eléctricas."
+        },
+        {
+          "tema": "Japón y China",
+          "dato": "Takaichi dijo que busca una relación constructiva y estable con China tras las restricciones comerciales por sus dichos sobre Taiwán."
+        },
+        {
+          "tema": "Salida a bolsa de Anthropic",
+          "dato": "Debut: abrió a US$111,50, máximo >114, cerró a 97,17 (+17%), valuación ~US$1,76 billones; 846 millones de acciones operadas; total recaudado US$107.300 millones con colocación privada; -4,7% after hours."
+        },
+        {
+          "tema": "Restricciones a exportación de chips",
+          "dato": "Según el FT (no confirmado), TSMC y Samsung habrían frenado envíos mientras tramitan licencias en Comercio de EE.UU."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "China vetó a la periodista de Bloomberg Annmarie Hordern en la cumbre tras preguntarle a Trump si Huang fue desleal; la Casa Blanca pidió su ingreso."
+        },
+        {
+          "tema": "Gira de Trump por Asia y cumbre con Xi y Putin",
+          "dato": "Reunión de ~80 minutos y declaración de paz no vinculante: reforma de la ONU, más suministro de refinados, diálogo sobre riesgos nucleares; no menciona Ucrania; Trump: EE.UU. y China quieren Ormuz abierto e Irán sin armas nucleares."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Coalición de dispuestos en Berlín con ~40 delegaciones y Witkoff/Kushner; Reino Unido anunció más de 1.000 drones de largo alcance (paquete de 260 millones de libras); se discute esquema con la línea del frente como referencia, sin anuncio oficial."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "Sin ataques nuevos confirmados; versiones no confirmadas de que EE.UU. evalúa nuevos ataques."
+        },
+        {
+          "tema": "Actualidad internacional",
+          "dato": "Lula visitó al cacique Raoni y firmó demarcación de tierras indígenas; el Banco de México publicó la minuta tras bajar la tasa a 6,25%."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-19",
       "tema_a_fondo": "Por qué una suba de tasas en Estados Unidos afecta a los emergentes como Argentina",
       "noticias": [

@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Thu, 19 Nov 2026 06:50:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:49:18 -0300</lastBuildDate>
+    <item>
+      <title>Viernes 20 de noviembre</title>
+      <description>El salto del riesgo país a 931 puntos y las compras mínimas del Banco Central, el debut de Anthropic en la bolsa en un mal día para Wall Street, la declaración de Trump, Xi y Putin y la respuesta europea en Berlín.</description>
+      <itunes:summary>El salto del riesgo país a 931 puntos y las compras mínimas del Banco Central, el debut de Anthropic en la bolsa en un mal día para Wall Street, la declaración de Trump, Xi y Putin y la respuesta europea en Berlín.</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-20</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-20.mp3" length="5599861" type="audio/mpeg"/>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Jueves 19 de noviembre</title>
       <description>Ántropic sale a bolsa a 83 dólares, las minutas de la Fed anticipan más subas, el petróleo supera a la soja como primera exportación, el dictamen para suspender las PASO y la cumbre de Trump, Xi y Putin.</description>
