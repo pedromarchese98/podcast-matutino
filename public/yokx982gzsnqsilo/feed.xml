@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Fri, 20 Nov 2026 06:49:18 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:49:29 -0300</lastBuildDate>
+    <item>
+      <title>Sábado 21 de noviembre</title>
+      <description>El riesgo país supera los 1.000 puntos, Wall Street entra en corrección con el derrumbe de Nvidia, Tesla llega a la Argentina, el mayor ataque ruso sobre Ucrania tras la cumbre y el fallo de la CIJ por el genocidio rohinyá.</description>
+      <itunes:summary>El riesgo país supera los 1.000 puntos, Wall Street entra en corrección con el derrumbe de Nvidia, Tesla llega a la Argentina, el mayor ataque ruso sobre Ucrania tras la cumbre y el fallo de la CIJ por el genocidio rohinyá.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-21</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-21.mp3" length="5546780" type="audio/mpeg"/>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Viernes 20 de noviembre</title>
       <description>El salto del riesgo país a 931 puntos y las compras mínimas del Banco Central, el debut de Anthropic en la bolsa en un mal día para Wall Street, la declaración de Trump, Xi y Putin y la respuesta europea en Berlín.</description>

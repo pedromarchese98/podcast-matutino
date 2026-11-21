@@ -1,6 +1,60 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-21",
+      "tema_a_fondo": "Qué es una corrección bursátil, en qué se diferencia de un mercado bajista y qué enseña la historia",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Viernes 20: riesgo país 1.070 (+135, +14%; +236 en la semana), bonos -4,6% (-18% en el año), mayorista 1.580 (récord), blue 1.675 (+100 en la semana), Merval en dólares -11% semanal, YPF -12,5% y Galicia -13,8% semanal; Nasdaq -5,28% (22.618), S&P -3,7% (6.910), Dow -1,9% (48.147); bitcoin ~60.000, oro -2%, bono a 10 años bajo 5%, Brent 90-92."
+        },
+        {
+          "tema": "Salto del riesgo país",
+          "dato": "Superó los 1.000 puntos, máximo desde las elecciones de octubre de 2025; analistas lo atribuyen al riesgo político de 2027 y al pánico global; sin reacción oficial de Caputo ni Milei."
+        },
+        {
+          "tema": "Llegada de Tesla a Argentina",
+          "dato": "Tesla inició ventas con Milei en La Boca: Model 3 y Model Y importados de China, de US$41.590 a 54.590, venta directa, local en Unicenter, entregas en marzo-abril de 2027."
+        },
+        {
+          "tema": "Feriado del Día de la Soberanía",
+          "dato": "El feriado se trasladó al lunes 23; los mercados argentinos vuelven el martes."
+        },
+        {
+          "tema": "Wall Street y corrección",
+          "dato": "S&P y Dow entraron en corrección; Nasdaq -10% semanal, peor semana desde la pandemia; acciones de hardware de IA -19,5% en la semana."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Nvidia -14% a US$125,53, séptima semana de caídas (la racha más larga desde 2008), ~-46% en siete semanas; Reuters: la SEC analizaría posibles problemas contables (no confirmado)."
+        },
+        {
+          "tema": "Salida a bolsa de Anthropic",
+          "dato": "Segundo día: cayó ~10% y cerró debajo de US$89, aún sobre el precio de salida de 83."
+        },
+        {
+          "tema": "Protestas por costo de vida en Europa",
+          "dato": "Huelga general en Italia convocada por la CGIL con decenas de miles en las calles."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Rusia lanzó al menos 110 misiles (27 balísticos): apagones en Kiev, oeste y Odesa, central térmica alcanzada, al menos seis muertos en Kiev, tres puentes del Dniéper dañados; Rusia acepta a la UE en la negociación pero rechaza a Kallas y exige que Ucrania renuncie a la OTAN; Trump: prematuro hablar de garantías."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "La Guardia Revolucionaria atacó un radar de EE.UU. en Baréin; según CBS, EE.UU. e Israel estudian un nuevo ataque en dos a cuatro días; Araqchí ofrece acelerar la reapertura de Ormuz con condiciones que Trump rechaza; sanciones a cuatro iraníes."
+        },
+        {
+          "tema": "Fallo de la CIJ sobre genocidio rohinyá",
+          "dato": "La Corte Internacional de Justicia declaró a Myanmar responsable de genocidio contra los rohinyás, primera vez que condena a un Estado por genocidio; ordenó investigar y abrió la puerta a reparaciones; Myanmar rechazó el fallo."
+        },
+        {
+          "tema": "Acuerdos Unión Europea-Reino Unido",
+          "dato": "Concluyeron la negociación de tres acuerdos, sin consenso aún sobre las tasas universitarias de los estudiantes."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-20",
       "tema_a_fondo": "Qué son las reservas del Banco Central (brutas y netas), por qué cambian con el oro y cómo interviene un banco central en el mercado de cambios",
       "noticias": [
