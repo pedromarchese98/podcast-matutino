@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Sat, 21 Nov 2026 06:49:29 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:48:44 -0300</lastBuildDate>
+    <item>
+      <title>Domingo 22 de noviembre</title>
+      <description>La explicación del Gobierno sobre el riesgo país y los vencimientos de 2027, la investigación contable a Nvidia, otro incidente en Ormuz, la votación española en la Argentina y qué es El Niño.</description>
+      <itunes:summary>La explicación del Gobierno sobre el riesgo país y los vencimientos de 2027, la investigación contable a Nvidia, otro incidente en Ormuz, la votación española en la Argentina y qué es El Niño.</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-22</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-22.mp3" length="4988386" type="audio/mpeg"/>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sábado 21 de noviembre</title>
       <description>El riesgo país supera los 1.000 puntos, Wall Street entra en corrección con el derrumbe de Nvidia, Tesla llega a la Argentina, el mayor ataque ruso sobre Ucrania tras la cumbre y el fallo de la CIJ por el genocidio rohinyá.</description>

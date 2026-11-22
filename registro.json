@@ -1,6 +1,60 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-22",
+      "tema_a_fondo": "Qué es El Niño, cómo funciona y cómo afecta a la Argentina (inundaciones y cosechas)",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Fin de semana sin mercados; feriado el lunes 23, próxima rueda el martes; referencia: riesgo país 1.070 del viernes."
+        },
+        {
+          "tema": "Salto del riesgo país",
+          "dato": "Caputo lo atribuyó al temor a un regreso del kirchnerismo ('riesgo kuka') y al shock de Ormuz; economistas discrepan; el indicador pasó de 430 a fines de julio a 1.070."
+        },
+        {
+          "tema": "Vencimientos de deuda 2027",
+          "dato": "Economía estima US$24.900 millones en 2027 (15.700 capital, 9.200 intereses); Caputo dice que están cubiertos; Ades: 2027 cubierto, la duda es 2028 en adelante."
+        },
+        {
+          "tema": "Presupuesto de la Unión Europea",
+          "dato": "Costa propuso recortar 180.540 millones de euros (-10,24%) el presupuesto 2028-2034; la UE formalizó con Indonesia el acuerdo de libre comercio."
+        },
+        {
+          "tema": "Impuesto a los multimillonarios",
+          "dato": "Gabriel Zucman presentó en París un manifiesto de ~100 expertos por un impuesto mínimo global a los multimillonarios."
+        },
+        {
+          "tema": "Cumbre del clima COP31",
+          "dato": "En prórroga en Antalya; el borrador no menciona combustibles fósiles, reconoce que se superará 1,5 grados y pide electrificar el 35% del consumo final para 2035 (hoy ~21%); Panamá objeta; votación prevista para la madrugada del 22."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Reuters confirmó con dos fuentes que la contabilidad es foco de la investigación de la SEC, sin precisar alcance; la SEC no comentó."
+        },
+        {
+          "tema": "Agentes de IA de OpenAI",
+          "dato": "OpenAI informó que el éxito autónomo de sus agentes en tareas de investigación de 2-4 horas subió de 23% (marzo) a 46% (octubre)."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "Petrolero incendiado en Ormuz (Reino Unido: dos proyectiles; Irán: mina); Irán dice haber derribado dos drones de EE.UU. y atacado dos radares Patriot en Baréin, sin verificación."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Sin novedades de peso; Asamblea Parlamentaria de la OTAN en Berlín con pleno el lunes 23."
+        },
+        {
+          "tema": "Elecciones en España y ley de nietos",
+          "dato": "Elecciones el 29/11; más de medio millón habilitados en Argentina, voto consular del 21 al 26; el Supremo suspendió el voto de ~163.300 nacionalizados por la ley de nietos tras denuncia de Vox."
+        },
+        {
+          "tema": "Inundaciones y El Niño en el Litoral",
+          "dato": "Corrientes declaró emergencia climática por 180 días; temporal en Córdoba con ráfagas de 90 a 140 km/h."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-21",
       "tema_a_fondo": "Qué es una corrección bursátil, en qué se diferencia de un mercado bajista y qué enseña la historia",
       "noticias": [
