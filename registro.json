@@ -1,6 +1,56 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-23",
+      "tema_a_fondo": "Qué es una recesión, cómo se mide la recesión técnica y por qué no siempre hay acuerdo",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Lunes 23 feriado en Argentina, sin rueda local; futuros del Nasdaq 100 ~+2,8% y del S&P ~+2,1% en la madrugada; Taiwán rebotó, Japón cerrado, Corea activó freno de volatilidad; VIX en máximo desde abril de 2025."
+        },
+        {
+          "tema": "Crecimiento y declaraciones de Caputo y Milei",
+          "dato": "Milei dijo en TV que es evidente que la economía está entrando en recesión; culpó al peronismo de la incertidumbre y anticipó reformas más profundas si es reelecto; negó interna con Bullrich."
+        },
+        {
+          "tema": "Vencimientos de deuda 2027",
+          "dato": "Según el Financial Times: riesgo país de ~400 en agosto a 1.070, aprobación de Milei ~35%, pagos a bonistas de ~US$17.000 millones en 2027 y faltante de casi US$10.000 millones; se exploran multilaterales, recompras y créditos garantizados."
+        },
+        {
+          "tema": "Oposición rumbo a 2027",
+          "dato": "Peronistas, radicales y ex PRO exploran acercamientos para 2027."
+        },
+        {
+          "tema": "Wall Street y corrección",
+          "dato": "Rebote de futuros tras la peor semana desde la pandemia; semana corta por Acción de Gracias (jueves cerrado, viernes medio día)."
+        },
+        {
+          "tema": "Cumbre del clima COP31",
+          "dato": "Terminó sin acuerdo sobre el Pacto de Antalya: la UE y Panamá lo rechazaron por no mencionar la salida de los fósiles; Rusia y Arabia Saudita objetaron otro borrador; fue la COP más larga."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Bessent dijo que Nvidia aún no respondió sobre ventas de chips a China, pidió saber quién era responsable de cumplimiento y no respaldó el regreso de Huang."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "Según Euronews, Irán lanzó dos oleadas de drones y misiles contra cuatro bases de EE.UU. en Baréin y tres petroleros fueron atacados; Irán dice que reabriría Ormuz si EE.UU. levanta sanciones, el bloqueo naval y libera fondos."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Sin novedades de peso; Asamblea Parlamentaria de la OTAN sesiona el lunes 23 en Berlín."
+        },
+        {
+          "tema": "Diez años del acuerdo de paz en Colombia",
+          "dato": "Santos defendió el legado del acuerdo con las FARC a diez años de su firma."
+        },
+        {
+          "tema": "Mundial de ajedrez",
+          "dato": "Gukesh contra Sindarov en Ginebra, 14 partidas clásicas, gana quien llegue a 7,5; primera partida el martes 24 según la FIDE."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-22",
       "tema_a_fondo": "Qué es El Niño, cómo funciona y cómo afecta a la Argentina (inundaciones y cosechas)",
       "noticias": [
