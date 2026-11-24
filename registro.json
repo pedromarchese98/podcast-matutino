@@ -1,6 +1,56 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-24",
+      "tema_a_fondo": "Cómo funciona el gobierno corporativo: accionistas, directorio y CEO",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Lunes 23 (feriado local): ADRs hasta +6%, bonos en alza, riesgo país -4% a 1.027; Nasdaq +6,5% (24.090), S&P +4,7% (7.237, sale de corrección), Dow +3% (49.595); Brent ~89 (-2 a -4%); bitcoin ~61.000."
+        },
+        {
+          "tema": "Vencimientos de deuda 2027",
+          "dato": "Entre las alternativas aparece usar parte del swap con China (~US$19.000 millones); el Tesoro no emite bonos en dólares locales desde agosto tras pedidos de tasas de hasta 17%."
+        },
+        {
+          "tema": "Presupuesto 2027 y paro universitario",
+          "dato": "Diputados trata el Presupuesto el miércoles 25 con dictamen de mayoría; mantiene $7,3 billones para universidades vs $11 billones pedidos; paro docente y no docente de 24 horas con movilización y nuevas huelgas en diciembre."
+        },
+        {
+          "tema": "Suspensión de las PASO",
+          "dato": "Sesión en el Senado prevista para el jueves 26."
+        },
+        {
+          "tema": "Wall Street y corrección",
+          "dato": "Uno de los mejores días en años, impulsado por Nvidia; el S&P volvió a menos de 10% de su récord."
+        },
+        {
+          "tema": "Protestas por costo de vida en Europa",
+          "dato": "Bélgica convocó una huelga general."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "El directorio restituyó por unanimidad a Huang como CEO y director; según Bloomberg tras opiniones del gobierno de EE.UU., Trump dice que convenció al directorio; acción +31,5% a US$165,05, mejor día desde 2003."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "El CENTCOM negó daños en las bases de Baréin; Baréin denunció ataque a una planta civil; EAU y Arabia Saudita condenaron; Trump busca acuerdo permanente y no descarta bombardear a inicios de 2027; Rubio se reunió con el premier de Catar."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Drones ucranianos atacaron depósitos de petróleo en Tatarstán; Rutte pidió en Berlín un plan creíble para el 5% del PBI en defensa y con Merz rechazó violaciones rusas del espacio aéreo."
+        },
+        {
+          "tema": "Juicio a Duterte",
+          "dato": "Filipinas presentó conclusiones sobre la campaña antidrogas; el juicio en la CPI empieza el 30 de noviembre."
+        },
+        {
+          "tema": "Mundial de ajedrez",
+          "dato": "Primera partida Gukesh-Sindarov el martes 24 en Ginebra."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-23",
       "tema_a_fondo": "Qué es una recesión, cómo se mide la recesión técnica y por qué no siempre hay acuerdo",
       "noticias": [

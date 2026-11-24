@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Mon, 23 Nov 2026 06:48:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:48:56 -0300</lastBuildDate>
+    <item>
+      <title>Martes 24 de noviembre</title>
+      <description>Nvidia repone a Jensen Huang y Wall Street rebota con fuerza, alivio para el riesgo país, el debate del Presupuesto con paro universitario, la tensión con Irán y cómo funciona el gobierno de una empresa.</description>
+      <itunes:summary>Nvidia repone a Jensen Huang y Wall Street rebota con fuerza, alivio para el riesgo país, el debate del Presupuesto con paro universitario, la tensión con Irán y cómo funciona el gobierno de una empresa.</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-24</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-24.mp3" length="4702502" type="audio/mpeg"/>
+      <itunes:duration>9:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lunes 23 de noviembre</title>
       <description>Milei reconoce que la economía entra en recesión, el Financial Times y el faltante para pagar la deuda de 2027, la presión de Washington sobre Nvidia, nuevos ataques iraníes en Baréin y el fracaso de la cumbre del clima.</description>
