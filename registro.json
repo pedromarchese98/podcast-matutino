@@ -1,6 +1,60 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-26",
+      "tema_a_fondo": "Cómo funciona la banda cambiaria en la Argentina (techo, piso y actualización por inflación)",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Miércoles 25: riesgo país pico 1.134 y cierre ~1.067 (-2,3%), mayorista 1.603,50 y BNA 1.630 (récords), blue 1.710-1.730, Merval +0,4% (81.588); Dow +0,3% (50.183), S&P -0,25% (7.183), Nasdaq -0,6% (23.586), Nvidia -3,9%; Brent 91,40 el martes y ~95-96 en Asia el jueves."
+        },
+        {
+          "tema": "Intervención cambiaria del Gobierno",
+          "dato": "Según estimaciones privadas, ~US$2.000 millones en coberturas vía dólar linked y futuros; el BCRA no intervino el 25 y las reservas quedaron en US$48.748 millones."
+        },
+        {
+          "tema": "Informe de Santilli en el Senado",
+          "dato": "Primer informe de gestión con más de 1.200 respuestas; dijo que la inflación anual bajó de 211% a 30% y la pobreza de 57% a 32%; cruces con el peronismo."
+        },
+        {
+          "tema": "Presupuesto 2027 y paro universitario",
+          "dato": "Diputados lo debate el jueves 26 desde el mediodía."
+        },
+        {
+          "tema": "Suspensión de las PASO",
+          "dato": "El Senado la trata el jueves 26; necesita 37 votos."
+        },
+        {
+          "tema": "Nuevos aranceles de Trump",
+          "dato": "Propuesta de aranceles a 14 economías: hasta 20%, UE 15% (hasta 25%), China hasta 40% si falla la tregua; requieren ~dos meses de consultas; México excluido por ahora."
+        },
+        {
+          "tema": "PBI e inflación de Estados Unidos",
+          "dato": "PBI del tercer trimestre revisado a 4,3% anualizado (máximo en tres años); PCE de octubre 3,8% anual, igual al máximo de tres años."
+        },
+        {
+          "tema": "Petróleo y Ormuz",
+          "dato": "Brent +2,3% a 91,40 tras versiones iraníes de petroleros incendiados por minas; en Asia el jueves saltó a ~95-96 por nuevas explosiones y un ataque hutí a la refinería saudita de Ras Tanura."
+        },
+        {
+          "tema": "Crisis en Nvidia",
+          "dato": "Cayó ~3,9% el miércoles tras llegar a perder más de 9%."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "La UKMTO registró 20 avisos de incidentes del 1 al 22 de noviembre, 17 ataques; España condenó la pena de 74 latigazos a la cantante Parastoo Ahmadi."
+        },
+        {
+          "tema": "Día contra la violencia hacia la mujer",
+          "dato": "Marchas y actos en América Latina y Europa el 25 de noviembre."
+        },
+        {
+          "tema": "Protestas por costo de vida en Europa",
+          "dato": "Ministros de vivienda de la UE se reunieron en Irlanda por la crisis habitacional."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-25",
       "tema_a_fondo": "Qué es el carry trade en pesos y por qué su salida presiona al dólar",
       "noticias": [

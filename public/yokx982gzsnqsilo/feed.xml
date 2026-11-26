@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Wed, 25 Nov 2026 06:49:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:48:54 -0300</lastBuildDate>
+    <item>
+      <title>Jueves 26 de noviembre</title>
+      <description>Día clave en el Congreso con el Presupuesto y las PASO, el dólar en récord y las coberturas del Gobierno, los nuevos aranceles de Trump, el salto del petróleo por Ormuz y cómo funciona la banda cambiaria.</description>
+      <itunes:summary>Día clave en el Congreso con el Presupuesto y las PASO, el dólar en récord y las coberturas del Gobierno, los nuevos aranceles de Trump, el salto del petróleo por Ormuz y cómo funciona la banda cambiaria.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-26</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-26.mp3" length="4344102" type="audio/mpeg"/>
+      <itunes:duration>9:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Miércoles 25 de noviembre</title>
       <description>El riesgo país vuelve a subir a 1.094 puntos con el dólar oficial en récord, Nvidia devuelve parte de su salto, el Presupuesto pasa al jueves en Diputados y qué es el carry trade en pesos.</description>
