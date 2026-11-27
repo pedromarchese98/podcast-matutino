@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Thu, 26 Nov 2026 06:48:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:49:20 -0300</lastBuildDate>
+    <item>
+      <title>Viernes 27 de noviembre</title>
+      <description>Diputados aprueba el Presupuesto con más fondos para universidades, el Senado suspende las PASO, un español al frente del BCE, un avance en computación cuántica y Boca rumbo a la final de la Copa Argentina.</description>
+      <itunes:summary>Diputados aprueba el Presupuesto con más fondos para universidades, el Senado suspende las PASO, un español al frente del BCE, un avance en computación cuántica y Boca rumbo a la final de la Copa Argentina.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-27</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-27.mp3" length="4632285" type="audio/mpeg"/>
+      <itunes:duration>9:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Jueves 26 de noviembre</title>
       <description>Día clave en el Congreso con el Presupuesto y las PASO, el dólar en récord y las coberturas del Gobierno, los nuevos aranceles de Trump, el salto del petróleo por Ormuz y cómo funciona la banda cambiaria.</description>

@@ -1,6 +1,68 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-27",
+      "tema_a_fondo": "Cómo se arma y se aprueba el Presupuesto nacional y qué pasa cuando el Congreso cambia partidas",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Jueves 26 (Wall Street cerrado): BNA 1.625 (-5), blue 1.700 (-10, corta racha alcista), Merval +3,3% (84.357), riesgo país 1.067 sin operaciones en Nueva York; Brent llegó a superar US$95."
+        },
+        {
+          "tema": "Presupuesto 2027 y paro universitario",
+          "dato": "Diputados lo aprobó en general 136-111-3 tras más de 17 horas; la oposición impuso $11 billones para universidades y se rechazó el capítulo de ciencia (INTI, INTA); también se sancionó el traspaso de competencias judiciales a CABA; pasa al Senado."
+        },
+        {
+          "tema": "Suspensión de las PASO",
+          "dato": "El Senado la aprobó en general 43-29 junto con Ficha Limpia; pasa a Diputados."
+        },
+        {
+          "tema": "Viaje de Milei a Paraguay",
+          "dato": "Milei fue recibido en Asunción por Santiago Peña."
+        },
+        {
+          "tema": "Banco Central Europeo",
+          "dato": "Pablo Hernández de Cos será el próximo presidente del BCE en reemplazo de Lagarde; cumbre de líderes por el presupuesto de la UE."
+        },
+        {
+          "tema": "Ley Quantum europea",
+          "dato": "La Comisión Europea propuso movilizar al menos 50.000 millones de euros en IA y computación cuántica."
+        },
+        {
+          "tema": "Petróleo y Ormuz",
+          "dato": "Ataque hutí a Ras Tanura (550.000 barriles diarios): columna de humo visible desde el espacio, Arabia Saudita dice haber derribado cuatro drones y se suspendió la carga en la terminal según CNN; hutíes también apuntaron a Riad."
+        },
+        {
+          "tema": "Qubit de Majorana",
+          "dato": "Según Infobae, QuTech (Delft) logró controlar un qubit basado en modos de Majorana, publicado en Nature; promete qubits más estables, aún en laboratorio."
+        },
+        {
+          "tema": "Satélites de SpaceX para centros de datos de IA",
+          "dato": "Según AP, EE.UU. autorizó a SpaceX a desplegar hasta un millón de satélites como centros de datos de IA; desafíos de refrigeración, costos y basura espacial."
+        },
+        {
+          "tema": "Negociaciones por Ucrania",
+          "dato": "Ataque con drones en Járkov dejó dos muertos; crecen los civiles amputados por bombardeos rusos."
+        },
+        {
+          "tema": "Aniversario del incendio en Hong Kong",
+          "dato": "Un año del incendio de Wang Fuk Court con 168 muertos, conmemorado con fuerte despliegue policial."
+        },
+        {
+          "tema": "Elecciones en España y ley de nietos",
+          "dato": "Terminó la votación de españoles en el exterior; elecciones el domingo 29, el mismo día que las locales en Ecuador."
+        },
+        {
+          "tema": "Boca Juniors",
+          "dato": "Campeón de la Sudamericana (2-0 a Atlético Mineiro, 21/11); ganó 2-0 a Independiente Rivadavia (Paredes de penal con VAR y Merentiel) y enfrentará a Gimnasia en cuartos; lesiones de Delgado y Alarcón según Infobae; final de Copa Argentina con Platense el 2/12 a las 20 en Santiago del Estero."
+        },
+        {
+          "tema": "Torneo Clausura",
+          "dato": "Los cuartos de final empiezan el sábado 28 con River, Rosario Central, Vélez, Independiente, Instituto y Barracas Central entre los clasificados."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-26",
       "tema_a_fondo": "Cómo funciona la banda cambiaria en la Argentina (techo, piso y actualización por inflación)",
       "noticias": [
