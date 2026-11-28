@@ -12,7 +12,17 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
-    <lastBuildDate>Fri, 27 Nov 2026 06:49:20 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:48:46 -0300</lastBuildDate>
+    <item>
+      <title>Sábado 28 de noviembre</title>
+      <description>El riesgo país cae 10% y vuelve debajo de los mil puntos, Wall Street cierra la semana en alza, la final de la Libertadores entre Estudiantes y Palmeiras y qué significa ser un país libre de sarampión.</description>
+      <itunes:summary>El riesgo país cae 10% y vuelve debajo de los mil puntos, Wall Street cierra la semana en alza, la final de la Libertadores entre Estudiantes y Palmeiras y qué significa ser un país libre de sarampión.</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 -0300</pubDate>
+      <guid isPermaLink="false">podcast-matutino-2026-11-28</guid>
+      <enclosure url="https://podcast-matutino.vercel.app/yokx982gzsnqsilo/episodios/2026-11-28.mp3" length="4094163" type="audio/mpeg"/>
+      <itunes:duration>8:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Viernes 27 de noviembre</title>
       <description>Diputados aprueba el Presupuesto con más fondos para universidades, el Senado suspende las PASO, un español al frente del BCE, un avance en computación cuántica y Boca rumbo a la final de la Copa Argentina.</description>

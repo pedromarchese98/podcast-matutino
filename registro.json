@@ -1,6 +1,60 @@
 {
   "episodios": [
     {
+      "fecha": "2026-11-28",
+      "tema_a_fondo": "Qué significa ser un país libre de sarampión y cómo se pierde ese estatus",
+      "noticias": [
+        {
+          "tema": "Cotizaciones del día",
+          "dato": "Viernes 27: riesgo país 960 (-107, -10%), mayorista 1.605, CCL 1.767, blue algo debajo de 1.700, Merval casi sin cambios en pesos (+2,6% en dólares), ADRs hasta +5%; Dow +1,2% (50.781), S&P +1,6% (7.298), Nasdaq +2,3% (24.130); petróleo -1,5%."
+        },
+        {
+          "tema": "Salto del riesgo país",
+          "dato": "Cayó por el rally de Brasil tras aprobarse el ajuste de Lula (Diputados 352-128) y por los avances legislativos del Presupuesto y las PASO; sigue más de 200 puntos arriba de fines de octubre."
+        },
+        {
+          "tema": "Cumbre de la Unión Europea",
+          "dato": "Segunda jornada en Bruselas con presupuesto, financiamiento a Ucrania y renovación del BCE; la bolsa española subió más de 1,7% antes de las elecciones."
+        },
+        {
+          "tema": "Sensor de glucosa inyectable",
+          "dato": "Texas A&M halló un ingrediente más barato para un componente de un sensor de glucosa inyectable experimental; aún prueba de concepto."
+        },
+        {
+          "tema": "Elecciones en Taiwán",
+          "dato": "Elecciones locales del sábado 28 entre el PDP y el Kuomintang."
+        },
+        {
+          "tema": "Tensión con Irán",
+          "dato": "A nueve meses del ataque a una escuela en Minab (157 muertos, 120 chicos), los familiares reclaman justicia."
+        },
+        {
+          "tema": "Cumbre de los Balcanes",
+          "dato": "Líderes de los Balcanes Occidentales se reunieron en Ohrid."
+        },
+        {
+          "tema": "Sarampión",
+          "dato": "La OMS publicó nuevos datos; la OPS ya había retirado el estatus de libres de sarampión a EE.UU., México y Bolivia (Canadá lo perdió en 2025)."
+        },
+        {
+          "tema": "Juicio a líder de secta en Kenia",
+          "dato": "Un tribunal keniano emitió su fallo contra el líder de una secta cristiana."
+        },
+        {
+          "tema": "Boca Juniors",
+          "dato": "Recibe a Gimnasia el domingo 29 a las 20:30 por cuartos (árbitro Darío Herrera); estudios descartaron lesión de rodilla en Delgado, Alarcón con problema en el aductor; ninguno jugaría y volvería Ascacibar."
+        },
+        {
+          "tema": "Final de la Copa Libertadores",
+          "dato": "Estudiantes vs Palmeiras el sábado 28 en el Centenario de Montevideo, a partido único; sexta final del Pincha, que ganó cuatro."
+        },
+        {
+          "tema": "Torneo Clausura",
+          "dato": "Los cuartos de final arrancan el sábado 28."
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-27",
       "tema_a_fondo": "Cómo se arma y se aprueba el Presupuesto nacional y qué pasa cuando el Congreso cambia partidas",
       "noticias": [
